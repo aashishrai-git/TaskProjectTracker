@@ -1,0 +1,14 @@
+C:\Users\susha\OneDrive\Desktop\ashish\PlayerStatsManager\obj\Debug\net8.0\PlayerStatsManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susha\OneDrive\Desktop\ashish\PlayerStatsManager\obj\Debug\net8.0\PlayerStatsManager.AssemblyInfoInputs.cache
+C:\Users\susha\OneDrive\Desktop\ashish\PlayerStatsManager\obj\Debug\net8.0\PlayerStatsManager.AssemblyInfo.cs
+C:\Users\susha\OneDrive\Desktop\ashish\PlayerStatsManager\obj\Debug\net8.0\PlayerStatsManager.csproj.CoreCompileInputs.cache
+C:\Users\susha\OneDrive\Desktop\ashish\PlayerStatsManager\bin\Debug\net8.0\PlayerStatsManager.exe
+C:\Users\susha\OneDrive\Desktop\ashish\PlayerStatsManager\bin\Debug\net8.0\PlayerStatsManager.deps.json
+C:\Users\susha\OneDrive\Desktop\ashish\PlayerStatsManager\bin\Debug\net8.0\PlayerStatsManager.runtimeconfig.json
+C:\Users\susha\OneDrive\Desktop\ashish\PlayerStatsManager\bin\Debug\net8.0\PlayerStatsManager.dll
+C:\Users\susha\OneDrive\Desktop\ashish\PlayerStatsManager\bin\Debug\net8.0\PlayerStatsManager.pdb
+C:\Users\susha\OneDrive\Desktop\ashish\PlayerStatsManager\obj\Debug\net8.0\PlayerStatsManager.dll
+C:\Users\susha\OneDrive\Desktop\ashish\PlayerStatsManager\obj\Debug\net8.0\refint\PlayerStatsManager.dll
+C:\Users\susha\OneDrive\Desktop\ashish\PlayerStatsManager\obj\Debug\net8.0\PlayerStatsManager.pdb
+C:\Users\susha\OneDrive\Desktop\ashish\PlayerStatsManager\obj\Debug\net8.0\PlayerStatsManager.genruntimeconfig.cache
+C:\Users\susha\OneDrive\Desktop\ashish\PlayerStatsManager\obj\Debug\net8.0\ref\PlayerStatsManager.dll
