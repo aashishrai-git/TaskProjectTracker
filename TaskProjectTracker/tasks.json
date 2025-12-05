@@ -1,0 +1,42 @@
+[
+  {
+    "TaskId": "1",
+    "TaskName": "Complete project proposal",
+    "DueDate": "2025-05-15T00:00:00",
+    "Priority": "High",
+    "Assignee": "John Doe",
+    "Status": "To-Do"
+  },
+  {
+    "TaskId": "2",
+    "TaskName": "Review code changes",
+    "DueDate": "2025-05-20T00:00:00",
+    "Priority": "Medium",
+    "Assignee": "Jane Smith",
+    "Status": "In Progress"
+  },
+  {
+    "TaskId": "3",
+    "TaskName": "Prepare presentation",
+    "DueDate": "2025-05-25T00:00:00",
+    "Priority": "Low",
+    "Assignee": "Bob Johnson",
+    "Status": "Done"
+  },
+  {
+    "TaskId": "4",
+    "TaskName": "Uml presentation",
+    "DueDate": "2025-05-25T00:00:00",
+    "Priority": "Low",
+    "Assignee": "Bob Johnson",
+    "Status": "Done"
+  },
+  {
+    "TaskId": "5",
+    "TaskName": "Prepare presentation",
+    "DueDate": "2025-05-25T00:00:00",
+    "Priority": "Low",
+    "Assignee": "Bob Johnson",
+    "Status": "Done"
+  }
+]
