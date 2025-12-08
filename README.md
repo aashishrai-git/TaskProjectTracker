@@ -65,12 +65,4 @@ Tests cover adding tasks, updating status, and searching tasks.
 - Search for non-existent task; should display "Task not found."
 - Try loading without `tasks.json`; should not crash.
 
-## Version Control
 
-Initialized with Git. Commits track changes.
-
-## Submission Notes
-
-- UML diagrams, GitHub link, and debugging reflection can be added as per assignment.
-- Screencast: Demonstrate adding tasks, updating status, generating reports, and running tests.
-#
